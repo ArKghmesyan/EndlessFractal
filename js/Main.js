@@ -80,7 +80,7 @@ function init() {
     // - cubeLR.png (hypercube)
     // - fractalLR.png (fractal)
     // - galaxy.png (default)
-    sprite1 = THREE.ImageUtils.loadTexture("bm.jpg");
+    sprite1 = THREE.ImageUtils.loadTexture("spintak.png");
 
     container = document.createElement( 'div' );
     document.body.appendChild(container);
